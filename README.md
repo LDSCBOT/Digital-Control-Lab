@@ -31,7 +31,11 @@ The Digital Control System Lab aims to provide a basic understanding and hands-o
      7. You should see "i love control system!!" printing out every 1 second
 
 
-https://github.com/user-attachments/assets/0818975b-82bf-46a2-b01d-9f0bbfe40b64
+
+
+https://github.com/user-attachments/assets/f3b36162-9b30-4d26-b2cf-fe6a58e8d84b
+
+
 
 
 
