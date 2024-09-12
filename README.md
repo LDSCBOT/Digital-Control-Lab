@@ -28,7 +28,7 @@ The Digital Control System Lab aims to provide a basic understanding and hands-o
         click the *bug* icon to debug mode -> click the *play* icon to run the project \
           * *update ST_link if needed*
      6. open the serial oscilloscope
-     7. You should see "i love controller system" printing out every 1 second
+     7. You should see "i love control system!!" printing out every 1 second
 
 
 https://github.com/user-attachments/assets/0818975b-82bf-46a2-b01d-9f0bbfe40b64
