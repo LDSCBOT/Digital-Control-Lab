@@ -75,3 +75,14 @@ To learn more about STM32...
 * [User Manual - STM32F446RE](https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf)
 
 * [HAL Library for STM32F4](https://www.st.com/resource/en/user_manual/um1725-description-of-stm32f4-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
+
+# Lab 2  
+**Due: 2024/11/15**
+
+## Prerequisites  
+- Only modify the code sections marked in the provided slides.  
+- Do not create a new project—use the TA-provided `lab2.zip`.  
+
+## Requirements  
+1. Ensure that the speed displayed on the oscilloscope matches the actual measured speed.
+2. Find the transfer function.
