@@ -1,4 +1,4 @@
-# 11310PME 520300 Digital Control System Lab
+# 11410PME 520300 Digital Control System Lab
 
 The Digital Control System Lab aims to provide a basic understanding and hands-on exercises in digital control systems. First, we will introduce the STM32, a popular microcontroller on the market. Finally, we will implement a simple position control of a DC motor using the STM32. The labs will cover the following topics:
 
@@ -9,7 +9,7 @@ The Digital Control System Lab aims to provide a basic understanding and hands-o
 
 
 # Lab 1
-**Due: 2024/10/11**
+**Due: 2025/10/11**
 ## Prerequisites
 1. Create a ST account and install STM32CubeIDE. [link](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
 2. Download Serial Oscilloscope. [link](https://x-io.co.uk/serial-oscilloscope/?fbclid=IwAR13yfXLrlEqIN43_gwaLuXaDHyjBJ4A-tjQ7xC2OXT-ltaDHCbIN7h_T-Y)
@@ -77,7 +77,7 @@ To learn more about STM32...
 * [HAL Library for STM32F4](https://www.st.com/resource/en/user_manual/um1725-description-of-stm32f4-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
 
 # Lab 2  
-**Due: 2024/11/15**
+**Due: 2025/11/15**
 
 ## Prerequisites  
 - Only modify the code sections marked in the provided slides.  
