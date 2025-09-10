@@ -42,12 +42,11 @@ https://github.com/user-attachments/assets/f3b36162-9b30-4d26-b2cf-fe6a58e8d84b
 
 
 ## ! Requirements !
-1. Properly solder PCB pins.
-2. Blink the `LED2(PA5)` on the STM32F446RE board in 2Hz.
-3. Use the `user button(PC13)` to switch between on/off of the LED2.
+1. Blink the `LED2(PA5)` on the STM32F446RE board in 2Hz.
+2. Use the `user button(PC13)` to switch between on/off of the LED2.
    
    *See STM32F446RE user manual section 6.4, 6.5 for pins definition*
-5. Print out how many times the LED2 has blinked on the serial oscilloscope.
+3. Print out how many times the LED2 has blinked on the serial oscilloscope.
    ```shell
    // example output
    LED has blinked 1 time(s)
